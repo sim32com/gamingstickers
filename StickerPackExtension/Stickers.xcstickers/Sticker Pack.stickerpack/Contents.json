@@ -1,9 +1,3101 @@
 {
+  "stickers" : [
+    {
+      "filename" : "5049-qdTwister-TMoriginal.sticker"
+    },
+    {
+      "filename" : "6732.sticker"
+    },
+    {
+      "filename" : "9235-gnarksombre-StarcraftBroodwar.sticker"
+    },
+    {
+      "filename" : "11103-Darksephiroth-Portal.sticker"
+    },
+    {
+      "filename" : "12053-grospoisonaujambon-TrackmaniaUnited.sticker"
+    },
+    {
+      "filename" : "12247.sticker"
+    },
+    {
+      "filename" : "Age of Conan_new_1.sticker"
+    },
+    {
+      "filename" : "Age of Conan_new_2.sticker"
+    },
+    {
+      "filename" : "Age of Conan_new_3.sticker"
+    },
+    {
+      "filename" : "Age of Conan_new_4.sticker"
+    },
+    {
+      "filename" : "Age of Conan_new_5.sticker"
+    },
+    {
+      "filename" : "Age of Empires2 - Age of Kings_1.sticker"
+    },
+    {
+      "filename" : "Age of Empires2 - Conquers Expansion_1.sticker"
+    },
+    {
+      "filename" : "Age of Empires2 - Rise of Rome Expansion_1.sticker"
+    },
+    {
+      "filename" : "Age of Empires2_1.sticker"
+    },
+    {
+      "filename" : "Age of Empires2_2.sticker"
+    },
+    {
+      "filename" : "Age of Mythology_1.sticker"
+    },
+    {
+      "filename" : "Age of Mythology_2.sticker"
+    },
+    {
+      "filename" : "Age of Mythology_3.sticker"
+    },
+    {
+      "filename" : "age_of_conan_1.sticker"
+    },
+    {
+      "filename" : "age_of_conan_2.sticker"
+    },
+    {
+      "filename" : "age_of_conan_3.sticker"
+    },
+    {
+      "filename" : "age_of_conan_4.sticker"
+    },
+    {
+      "filename" : "age_of_conan_5.sticker"
+    },
+    {
+      "filename" : "age_of_conan_6.sticker"
+    },
+    {
+      "filename" : "age_of_conan_7.sticker"
+    },
+    {
+      "filename" : "age_of_conan.sticker"
+    },
+    {
+      "filename" : "Age_of_Empires_III_TheWarChiefs.sticker"
+    },
+    {
+      "filename" : "Age_of_Empires_III_TheWarChiefs1.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator 2 Gold Edition_1.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator 2 Gold Edition_2.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator 2 Primal Hunt_1.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator 2 Primal Hunt_2.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator_1.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator_2.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_1.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_2.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_3.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_4.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_5.sticker"
+    },
+    {
+      "filename" : "Aliens vs Predator2_6.sticker"
+    },
+    {
+      "filename" : "Alone in the Dark 5_1.sticker"
+    },
+    {
+      "filename" : "Alone in the Dark 5_2.sticker"
+    },
+    {
+      "filename" : "Ankh_1.sticker"
+    },
+    {
+      "filename" : "Ankh_2.sticker"
+    },
+    {
+      "filename" : "Ankh_3.sticker"
+    },
+    {
+      "filename" : "Ankh_4.sticker"
+    },
+    {
+      "filename" : "Ankh_5.sticker"
+    },
+    {
+      "filename" : "Anno_1701.sticker"
+    },
+    {
+      "filename" : "Anno1701 [2ndWave].sticker"
+    },
+    {
+      "filename" : "Arcanum_1.sticker"
+    },
+    {
+      "filename" : "ARMA - Queens Gambit_1.sticker"
+    },
+    {
+      "filename" : "ARMA - Queens Gambit_2.sticker"
+    },
+    {
+      "filename" : "Armed and Dangerous_1.sticker"
+    },
+    {
+      "filename" : "Armed and Dangerous_2.sticker"
+    },
+    {
+      "filename" : "Armed Assault2_1.sticker"
+    },
+    {
+      "filename" : "Armed Assault2_2.sticker"
+    },
+    {
+      "filename" : "Armed Assault2_3.sticker"
+    },
+    {
+      "filename" : "ArmedAssault.sticker"
+    },
+    {
+      "filename" : "batmanicon3.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Road to Rome_1.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Road to Rome_2.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Road to Rome_3.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Secret Weapons of WWII_2.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Secret Weapons of WWII_3.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942 - Secret Weapons of WWII_4.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942_1.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942_2.sticker"
+    },
+    {
+      "filename" : "Battlefield 1942_3.sticker"
+    },
+    {
+      "filename" : "Battlefield 2142_original cover_1.sticker"
+    },
+    {
+      "filename" : "Battlefield 2142_original cover_2.sticker"
+    },
+    {
+      "filename" : "Battlefield Vietnam_1.sticker"
+    },
+    {
+      "filename" : "Battlefield Vietnam_2.sticker"
+    },
+    {
+      "filename" : "Battlefield Vietnam_3.sticker"
+    },
+    {
+      "filename" : "Battlefield Vietnam_4.sticker"
+    },
+    {
+      "filename" : "Battlefield Vietnam_5.sticker"
+    },
+    {
+      "filename" : "Battlefield_BC.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "Battlefield-2.sticker"
+    },
+    {
+      "filename" : "Battlefield2_MEC_Tank-EL1TE.sticker"
+    },
+    {
+      "filename" : "Battlefield2_Sniper-EL1TE.sticker"
+    },
+    {
+      "filename" : "Battlefield2-EL1TE.sticker"
+    },
+    {
+      "filename" : "Battlezone II_1.sticker"
+    },
+    {
+      "filename" : "Battlezone II_2.sticker"
+    },
+    {
+      "filename" : "Bet on Soldier.sticker"
+    },
+    {
+      "filename" : "Bet on Soldier1.sticker"
+    },
+    {
+      "filename" : "BF2AF.sticker"
+    },
+    {
+      "filename" : "BF2EF-01_by_EL1TE.sticker"
+    },
+    {
+      "filename" : "BF2EF-02_by_EL1TE.sticker"
+    },
+    {
+      "filename" : "BF2icon2.sticker"
+    },
+    {
+      "filename" : "BFVicon2.sticker"
+    },
+    {
+      "filename" : "BIAicon5.sticker"
+    },
+    {
+      "filename" : "Bioshock 2.sticker"
+    },
+    {
+      "filename" : "BioShocK.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "BioShocK.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "BioShocK.03-EL1TE.sticker"
+    },
+    {
+      "filename" : "Black & White_1.sticker"
+    },
+    {
+      "filename" : "Blood II - The Choosen_1.sticker"
+    },
+    {
+      "filename" : "Blood II - The Choosen_2.sticker"
+    },
+    {
+      "filename" : "Blood II - The Choosen_3.sticker"
+    },
+    {
+      "filename" : "Blood II - The Choosen_4.sticker"
+    },
+    {
+      "filename" : "bloodlinesicon4.sticker"
+    },
+    {
+      "filename" : "C&C3 [2ndWave].sticker"
+    },
+    {
+      "filename" : "C&C3 TW SoldierNod.sticker"
+    },
+    {
+      "filename" : "C&C3 TW SoldierNod1.sticker"
+    },
+    {
+      "filename" : "C&C3 TW1.sticker"
+    },
+    {
+      "filename" : "C&C3 TW2.sticker"
+    },
+    {
+      "filename" : "C&C3 TW3.sticker"
+    },
+    {
+      "filename" : "C&C3 TW4.sticker"
+    },
+    {
+      "filename" : "C&C3 TW5.sticker"
+    },
+    {
+      "filename" : "CABAL_Online-EL1TE.sticker"
+    },
+    {
+      "filename" : "Call of Duty 4 - 50% Transparency.sticker"
+    },
+    {
+      "filename" : "Call of Duty 4 - 75% Transparency.sticker"
+    },
+    {
+      "filename" : "Call of Duty 4 - No Transparency.sticker"
+    },
+    {
+      "filename" : "CallofDuty.sticker"
+    },
+    {
+      "filename" : "CallofDuty4_new2.sticker"
+    },
+    {
+      "filename" : "CallofDuty4_new3.sticker"
+    },
+    {
+      "filename" : "Clive Barker`s Undying_1.sticker"
+    },
+    {
+      "filename" : "Clive Barker`s Undying_2.sticker"
+    },
+    {
+      "filename" : "Clive Barker`s Undying_3.sticker"
+    },
+    {
+      "filename" : "Clive Barker`s Undying_4.sticker"
+    },
+    {
+      "filename" : "Clive Barker`s Undying_5.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Black_8.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Church_7.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Cole_6.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Delgado_5.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Jones_4.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho Rawlins_3.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho_1.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho_2.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho_9.sticker"
+    },
+    {
+      "filename" : "Clive Barkers Jericho_10.sticker"
+    },
+    {
+      "filename" : "CnCgeneralsicon1.sticker"
+    },
+    {
+      "filename" : "Codename Panzers Phase Two_1.sticker"
+    },
+    {
+      "filename" : "Codename Panzers Phase Two_2.sticker"
+    },
+    {
+      "filename" : "Codename Panzers Phase Two_3.sticker"
+    },
+    {
+      "filename" : "Codename Panzers Phase Two_4.sticker"
+    },
+    {
+      "filename" : "CoDicon1.sticker"
+    },
+    {
+      "filename" : "CoDicon3.sticker"
+    },
+    {
+      "filename" : "COHiconnoreflect.sticker"
+    },
+    {
+      "filename" : "Command & Conquer - Red Alert_1.sticker"
+    },
+    {
+      "filename" : "Command & Conquer - Red Alert_2.sticker"
+    },
+    {
+      "filename" : "Command & Conquer - Red Alert_3.sticker"
+    },
+    {
+      "filename" : "Command & Conquer - Red Alert.sticker"
+    },
+    {
+      "filename" : "Command & Conquer - Yuris Revenge.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW KW-new_1.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_GDI_1.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_GDI_6.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_NOD_3.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_NOD_4.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_SCRIN_2.sticker"
+    },
+    {
+      "filename" : "Command & Conquer 3 TW-new_SCRIN_5.sticker"
+    },
+    {
+      "filename" : "Command & Conquer Collection.sticker"
+    },
+    {
+      "filename" : "Command & Conquer Tiberian Sun - Firestorm.sticker"
+    },
+    {
+      "filename" : "Command & Conquer_1.sticker"
+    },
+    {
+      "filename" : "Command & Conquer_2.sticker"
+    },
+    {
+      "filename" : "Command & Conquer_3.sticker"
+    },
+    {
+      "filename" : "Command&Conquer-3-KanesWrath_new_1.sticker"
+    },
+    {
+      "filename" : "Command&Conquer-3-KanesWrath_new_2.sticker"
+    },
+    {
+      "filename" : "Command&Conquer-3-KanesWrath_new_3.sticker"
+    },
+    {
+      "filename" : "Command&Conquer-3-KanesWrath_new_4.sticker"
+    },
+    {
+      "filename" : "Commandos3_1.sticker"
+    },
+    {
+      "filename" : "Commandos3_2.sticker"
+    },
+    {
+      "filename" : "Commandos3_3.sticker"
+    },
+    {
+      "filename" : "Commandos3_4.sticker"
+    },
+    {
+      "filename" : "Commandos3_5.sticker"
+    },
+    {
+      "filename" : "Condemned 2_1.sticker"
+    },
+    {
+      "filename" : "Condemned2.sticker"
+    },
+    {
+      "filename" : "Condemned5.sticker"
+    },
+    {
+      "filename" : "Condemned6.sticker"
+    },
+    {
+      "filename" : "Condemned7.sticker"
+    },
+    {
+      "filename" : "Counter-Strike-Source.sticker"
+    },
+    {
+      "filename" : "Counter-Strike.sticker"
+    },
+    {
+      "filename" : "CounterStrikeSource.sticker"
+    },
+    {
+      "filename" : "CounterStrikeSource1.sticker"
+    },
+    {
+      "filename" : "Crysis_Soldier1.sticker"
+    },
+    {
+      "filename" : "Crysis_Soldier2.sticker"
+    },
+    {
+      "filename" : "Crysis_Soldier3.sticker"
+    },
+    {
+      "filename" : "CRYSiS-EL1TE.sticker"
+    },
+    {
+      "filename" : "Crysis.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "Crysis.sticker"
+    },
+    {
+      "filename" : "csicon2.sticker"
+    },
+    {
+      "filename" : "CSSicon4.sticker"
+    },
+    {
+      "filename" : "Cultures_1.sticker"
+    },
+    {
+      "filename" : "D2icon2.sticker"
+    },
+    {
+      "filename" : "DarkNeSS.00-EL1TE.sticker"
+    },
+    {
+      "filename" : "DarkNeSS.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "DarkNeSS.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "DarkSector_1.sticker"
+    },
+    {
+      "filename" : "DarkSector_2.sticker"
+    },
+    {
+      "filename" : "DarkSector_3.sticker"
+    },
+    {
+      "filename" : "DarkSector_4.sticker"
+    },
+    {
+      "filename" : "DarkSector_5.sticker"
+    },
+    {
+      "filename" : "DarkSector_6.sticker"
+    },
+    {
+      "filename" : "DarkSector_8.sticker"
+    },
+    {
+      "filename" : "DarkSector_9.sticker"
+    },
+    {
+      "filename" : "DarkSector_10.sticker"
+    },
+    {
+      "filename" : "darwinia-title.sticker"
+    },
+    {
+      "filename" : "Death2Spies.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "Death2Spies.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "defcon.sticker"
+    },
+    {
+      "filename" : "Delta Force - Angel Falls_1.sticker"
+    },
+    {
+      "filename" : "Delta Force - Task Force Dagger_1.sticker"
+    },
+    {
+      "filename" : "Deus Ex - Invisible War_1.sticker"
+    },
+    {
+      "filename" : "Deus Ex - Invisible War_2.sticker"
+    },
+    {
+      "filename" : "Deus Ex - Invisible War_3.sticker"
+    },
+    {
+      "filename" : "Deus Ex - Invisible War_4.sticker"
+    },
+    {
+      "filename" : "Deus Ex_1.sticker"
+    },
+    {
+      "filename" : "Deus Ex_2.sticker"
+    },
+    {
+      "filename" : "deusexicon1.sticker"
+    },
+    {
+      "filename" : "Devastation_1.sticker"
+    },
+    {
+      "filename" : "Devastation_2.sticker"
+    },
+    {
+      "filename" : "Devastation_3.sticker"
+    },
+    {
+      "filename" : "Devil May Cry 3_1.sticker"
+    },
+    {
+      "filename" : "Devil May Cry4_1.sticker"
+    },
+    {
+      "filename" : "Devil May Cry4_2.sticker"
+    },
+    {
+      "filename" : "Devil May Cry4_3.sticker"
+    },
+    {
+      "filename" : "Devil May Cry4_4.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_2.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_3.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_4.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_5.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_6.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_7.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_8.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_9.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_10.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_11.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising_12.sticker"
+    },
+    {
+      "filename" : "DFBHD - JO - Typhoon Rising.sticker"
+    },
+    {
+      "filename" : "DFBHD - Team Sabre_1.sticker"
+    },
+    {
+      "filename" : "DFBHD - Team Sabre_2.sticker"
+    },
+    {
+      "filename" : "DFBHD_1.sticker"
+    },
+    {
+      "filename" : "DFBHD_2.sticker"
+    },
+    {
+      "filename" : "DFBHD_3.sticker"
+    },
+    {
+      "filename" : "DFBHD_4.sticker"
+    },
+    {
+      "filename" : "DFBHD_5.sticker"
+    },
+    {
+      "filename" : "DFBHD_6.sticker"
+    },
+    {
+      "filename" : "DFBHD_7.sticker"
+    },
+    {
+      "filename" : "Diablo2_1.sticker"
+    },
+    {
+      "filename" : "Die Gilde_1.sticker"
+    },
+    {
+      "filename" : "Die Gilde_2.sticker"
+    },
+    {
+      "filename" : "Die Gilde_3.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Family Fun Accessoires.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Glamour Accessoires.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 H&M Fashion Accessoires.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Haustiere.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Nightlife.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 open for Business.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Party Accessoires.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 Vier Jahreszeiten.sticker"
+    },
+    {
+      "filename" : "Die Sims 2 wilde campus-jahre.sticker"
+    },
+    {
+      "filename" : "Doom3icon3new.sticker"
+    },
+    {
+      "filename" : "DoWicon8.sticker"
+    },
+    {
+      "filename" : "DOWicon10.sticker"
+    },
+    {
+      "filename" : "DoWiconork1.sticker"
+    },
+    {
+      "filename" : "DSiegeicon1.sticker"
+    },
+    {
+      "filename" : "DSiegeicon2.sticker"
+    },
+    {
+      "filename" : "Ducati_1.sticker"
+    },
+    {
+      "filename" : "Duke Nukem - Manhatten Project_1.sticker"
+    },
+    {
+      "filename" : "Duke Nukem - Manhatten Project_2.sticker"
+    },
+    {
+      "filename" : "Duke Nukem Forever_1.sticker"
+    },
+    {
+      "filename" : "Duke Nukem Forever_2.sticker"
+    },
+    {
+      "filename" : "Duke Nukem Forever_3.sticker"
+    },
+    {
+      "filename" : "Duke Nukem Forever_4.sticker"
+    },
+    {
+      "filename" : "Duke Nukem Forever_5.sticker"
+    },
+    {
+      "filename" : "Dune 2000_1.sticker"
+    },
+    {
+      "filename" : "El Matador_1.sticker"
+    },
+    {
+      "filename" : "El Matador_2.sticker"
+    },
+    {
+      "filename" : "El Matador_3.sticker"
+    },
+    {
+      "filename" : "El Matador_4.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2 addon_1.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2 addon_2.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2 addon_3.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_2.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_3.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_4.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_5.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_6.sticker"
+    },
+    {
+      "filename" : "Empire Earth 2_7.sticker"
+    },
+    {
+      "filename" : "Empire Earth_1.sticker"
+    },
+    {
+      "filename" : "Empires - Die Neuzeit_1.sticker"
+    },
+    {
+      "filename" : "Empires - Die Neuzeit_2.sticker"
+    },
+    {
+      "filename" : "Empires - Die Neuzeit_3.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars DVD Cover.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg1.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg2.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg3.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg4.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg5.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg6.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars_Strogg7.sticker"
+    },
+    {
+      "filename" : "EnemyTerritoryQuakeWars.sticker"
+    },
+    {
+      "filename" : "EQicon5.sticker"
+    },
+    {
+      "filename" : "ET-QW.05-EL1TE.sticker"
+    },
+    {
+      "filename" : "ET-QW.03-EL1TE.sticker"
+    },
+    {
+      "filename" : "ET-QW.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "ET-QW.06-EL1TE.sticker"
+    },
+    {
+      "filename" : "ET-QW.07-EL1TE.sticker"
+    },
+    {
+      "filename" : "ETQW.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "ET-QW.04-EL1TE.sticker"
+    },
+    {
+      "filename" : "EVE Online_1.sticker"
+    },
+    {
+      "filename" : "EVE Online_2.sticker"
+    },
+    {
+      "filename" : "eveicon4.sticker"
+    },
+    {
+      "filename" : "EverQuest2 - Depths of Darkhollow_1.sticker"
+    },
+    {
+      "filename" : "EverQuest2 - Kingdom of Sky_1.sticker"
+    },
+    {
+      "filename" : "EverQuest2 - Kingdom of Sky.sticker"
+    },
+    {
+      "filename" : "EverQuest2 -Rise of Kurnak_1.sticker"
+    },
+    {
+      "filename" : "evil Death.sticker"
+    },
+    {
+      "filename" : "evil Death1.sticker"
+    },
+    {
+      "filename" : "evil Death2.sticker"
+    },
+    {
+      "filename" : "evil Death3.sticker"
+    },
+    {
+      "filename" : "Fallout.sticker"
+    },
+    {
+      "filename" : "Fallout3_1.sticker"
+    },
+    {
+      "filename" : "Fallout3_2.sticker"
+    },
+    {
+      "filename" : "Fallout3_3.sticker"
+    },
+    {
+      "filename" : "fallouticon2.sticker"
+    },
+    {
+      "filename" : "FarCry_new_1.sticker"
+    },
+    {
+      "filename" : "FarCry_new_2.sticker"
+    },
+    {
+      "filename" : "FarCry_new_3.sticker"
+    },
+    {
+      "filename" : "FarCry_new_4.sticker"
+    },
+    {
+      "filename" : "FarCry_new_5.sticker"
+    },
+    {
+      "filename" : "FarCry_new_6.sticker"
+    },
+    {
+      "filename" : "FarCry_new_7.sticker"
+    },
+    {
+      "filename" : "FarCry_new_8.sticker"
+    },
+    {
+      "filename" : "FarCry_new_9.sticker"
+    },
+    {
+      "filename" : "FarCry_new_10.sticker"
+    },
+    {
+      "filename" : "FarCry2_1.sticker"
+    },
+    {
+      "filename" : "FarCry2_2.sticker"
+    },
+    {
+      "filename" : "FarCry2_3.sticker"
+    },
+    {
+      "filename" : "FarCry2.sticker"
+    },
+    {
+      "filename" : "FCicon1.sticker"
+    },
+    {
+      "filename" : "FEAR_Assault-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Cannon-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Penetrator-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Pistol-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Plasma-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Rocket-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_Shotgun-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR_SMG-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "FEAR.sticker"
+    },
+    {
+      "filename" : "FEAR1.sticker"
+    },
+    {
+      "filename" : "FEAR2.sticker"
+    },
+    {
+      "filename" : "FFXIicon3.sticker"
+    },
+    {
+      "filename" : "Field Ops.sticker"
+    },
+    {
+      "filename" : "Field Ops1.sticker"
+    },
+    {
+      "filename" : "Field Ops2.sticker"
+    },
+    {
+      "filename" : "Field Ops3.sticker"
+    },
+    {
+      "filename" : "Field Ops4.sticker"
+    },
+    {
+      "filename" : "Field Ops5.sticker"
+    },
+    {
+      "filename" : "Field Ops6.sticker"
+    },
+    {
+      "filename" : "FIFA-08-Logo.sticker"
+    },
+    {
+      "filename" : "Flatout - Ultimate Carnage_1.sticker"
+    },
+    {
+      "filename" : "Flatout - Ultimate Carnage_2.sticker"
+    },
+    {
+      "filename" : "Flatout - Ultimate Carnage_3.sticker"
+    },
+    {
+      "filename" : "Flatout - Ultimate Carnage_4.sticker"
+    },
+    {
+      "filename" : "Flatout - Ultimate Carnage.sticker"
+    },
+    {
+      "filename" : "flatouticon5.sticker"
+    },
+    {
+      "filename" : "Forza 2 Motorsport.sticker"
+    },
+    {
+      "filename" : "Forza 2 Motorsport1.sticker"
+    },
+    {
+      "filename" : "Forza 2 Motorsport2.sticker"
+    },
+    {
+      "filename" : "Freelancer_1.sticker"
+    },
+    {
+      "filename" : "Freelancer_2.sticker"
+    },
+    {
+      "filename" : "Frontline Attack - War over Europe_1.sticker"
+    },
+    {
+      "filename" : "Frontline Attack - War over Europe_2.sticker"
+    },
+    {
+      "filename" : "Frontline Attack - War over Europe_3.sticker"
+    },
+    {
+      "filename" : "Gears of War.sticker"
+    },
+    {
+      "filename" : "Gears of War1.sticker"
+    },
+    {
+      "filename" : "Ghost Recon.sticker"
+    },
+    {
+      "filename" : "Grand Theft Auto - San Andreas_1.sticker"
+    },
+    {
+      "filename" : "Grand Theft Auto - Vice City_1.sticker"
+    },
+    {
+      "filename" : "Grand Theft Auto San Andreas - 50% Transparency.sticker"
+    },
+    {
+      "filename" : "Grand Theft Auto San Andreas - 75% Transparency.sticker"
+    },
+    {
+      "filename" : "Grand Theft Auto San Andreas - No Transparency.sticker"
+    },
+    {
+      "filename" : "GRAW2_1.sticker"
+    },
+    {
+      "filename" : "GRAW2_2.sticker"
+    },
+    {
+      "filename" : "GRAW2_3.sticker"
+    },
+    {
+      "filename" : "GRAW2_4.sticker"
+    },
+    {
+      "filename" : "GRAW2_11.sticker"
+    },
+    {
+      "filename" : "GRAW2_22.sticker"
+    },
+    {
+      "filename" : "GTA 2_2.sticker"
+    },
+    {
+      "filename" : "GTA 2.sticker"
+    },
+    {
+      "filename" : "gta_sa.sticker"
+    },
+    {
+      "filename" : "GTASAicon1.sticker"
+    },
+    {
+      "filename" : "GTAVCicon1.sticker"
+    },
+    {
+      "filename" : "gtr_2_icon.sticker"
+    },
+    {
+      "filename" : "guildwarsicon6new.sticker"
+    },
+    {
+      "filename" : "Gunship_1.sticker"
+    },
+    {
+      "filename" : "Gunship_2.sticker"
+    },
+    {
+      "filename" : "Gunship_3.sticker"
+    },
+    {
+      "filename" : "Half-Life Ricochet_1.sticker"
+    },
+    {
+      "filename" : "Half-Life Ricochet_2.sticker"
+    },
+    {
+      "filename" : "Half-Life-2-Logo.sticker"
+    },
+    {
+      "filename" : "Half-Life2 Ricochet_1.sticker"
+    },
+    {
+      "filename" : "Halo - Combat Evolved_2.sticker"
+    },
+    {
+      "filename" : "Halo 2_1.sticker"
+    },
+    {
+      "filename" : "Halo3_2.sticker"
+    },
+    {
+      "filename" : "Halo3_3.sticker"
+    },
+    {
+      "filename" : "Halo3_4.sticker"
+    },
+    {
+      "filename" : "Halo3_Helm_Limited_Edition1.sticker"
+    },
+    {
+      "filename" : "Halo3_X-Box.sticker"
+    },
+    {
+      "filename" : "Hard to be a God.sticker"
+    },
+    {
+      "filename" : "Hellgate London_1.sticker"
+    },
+    {
+      "filename" : "Hellgate London_2.sticker"
+    },
+    {
+      "filename" : "Hellgate London_2a.sticker"
+    },
+    {
+      "filename" : "Hellgate London_10.sticker"
+    },
+    {
+      "filename" : "Hellgate London_new_1.sticker"
+    },
+    {
+      "filename" : "Hellgate London_new_2.sticker"
+    },
+    {
+      "filename" : "Hellgate London_new_3.sticker"
+    },
+    {
+      "filename" : "Hellgate London_new_5.sticker"
+    },
+    {
+      "filename" : "Hellgate London_new_alternative_4.sticker"
+    },
+    {
+      "filename" : "Hellgate London.sticker"
+    },
+    {
+      "filename" : "Hellgate London3.sticker"
+    },
+    {
+      "filename" : "Hellgate London4.sticker"
+    },
+    {
+      "filename" : "Hellgate London5.sticker"
+    },
+    {
+      "filename" : "Hellgate London6.sticker"
+    },
+    {
+      "filename" : "Hellgate London7.sticker"
+    },
+    {
+      "filename" : "Hellgate London8.sticker"
+    },
+    {
+      "filename" : "Hellgate London9.sticker"
+    },
+    {
+      "filename" : "Highlander_1.sticker"
+    },
+    {
+      "filename" : "Highlander_2.sticker"
+    },
+    {
+      "filename" : "Highlander_3.sticker"
+    },
+    {
+      "filename" : "Highlander.sticker"
+    },
+    {
+      "filename" : "Hitman - Blood Money_1.sticker"
+    },
+    {
+      "filename" : "Hitman - Blood Money_2.sticker"
+    },
+    {
+      "filename" : "Hitman - Blood Money_3.sticker"
+    },
+    {
+      "filename" : "Hitman - Blood Money_4.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_1.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_2.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_3.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_4.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_5.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_6.sticker"
+    },
+    {
+      "filename" : "Hitman - Contracts_7.sticker"
+    },
+    {
+      "filename" : "Hitman2 - Silent Assassin_1.sticker"
+    },
+    {
+      "filename" : "Hitman2 - Silent Assassin_2.sticker"
+    },
+    {
+      "filename" : "Hitman2 - Silent Assassin_3.sticker"
+    },
+    {
+      "filename" : "Hitman2 - Silent Assassin_4.sticker"
+    },
+    {
+      "filename" : "HL2.sticker"
+    },
+    {
+      "filename" : "hl2dmiconupg1.sticker"
+    },
+    {
+      "filename" : "hl2icon3.sticker"
+    },
+    {
+      "filename" : "HL2logo.sticker"
+    },
+    {
+      "filename" : "I-War_1.sticker"
+    },
+    {
+      "filename" : "icon.sticker"
+    },
+    {
+      "filename" : "IGI_1.sticker"
+    },
+    {
+      "filename" : "IGI2_1.sticker"
+    },
+    {
+      "filename" : "IGI2_2.sticker"
+    },
+    {
+      "filename" : "Infernal_new_1.sticker"
+    },
+    {
+      "filename" : "Infernal_new_2.sticker"
+    },
+    {
+      "filename" : "Infernal_new_3.sticker"
+    },
+    {
+      "filename" : "Infernal_new_4.sticker"
+    },
+    {
+      "filename" : "Infernal_new_5.sticker"
+    },
+    {
+      "filename" : "Infernal_new_6.sticker"
+    },
+    {
+      "filename" : "Infernal_new_7.sticker"
+    },
+    {
+      "filename" : "Infernal.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "Infernal.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "Infernal.sticker"
+    },
+    {
+      "filename" : "Insane_1.sticker"
+    },
+    {
+      "filename" : "JKAicon11.sticker"
+    },
+    {
+      "filename" : "Kameo Elements of Fire.sticker"
+    },
+    {
+      "filename" : "Kameo Elements of Fire1.sticker"
+    },
+    {
+      "filename" : "KOTORicon13.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_1.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_2.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_3.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_4.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_5.sticker"
+    },
+    {
+      "filename" : "Legacy of Kain - Defiance_6.sticker"
+    },
+    {
+      "filename" : "Legend_HandofGod1.sticker"
+    },
+    {
+      "filename" : "Legend_HandofGod2.sticker"
+    },
+    {
+      "filename" : "Lineage_1.sticker"
+    },
+    {
+      "filename" : "Lineage_2.sticker"
+    },
+    {
+      "filename" : "Lineage_2a.sticker"
+    },
+    {
+      "filename" : "LineageII.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "LineageII.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "LineageII.03-EL1TE.sticker"
+    },
+    {
+      "filename" : "Lost Planet.sticker"
+    },
+    {
+      "filename" : "Mace Griffin Bounty Hunter_1.sticker"
+    },
+    {
+      "filename" : "Machines_1.sticker"
+    },
+    {
+      "filename" : "maddenicon3.sticker"
+    },
+    {
+      "filename" : "Magic - The Gathering.sticker"
+    },
+    {
+      "filename" : "Manhunt 2_1.sticker"
+    },
+    {
+      "filename" : "Manhunt 2_2.sticker"
+    },
+    {
+      "filename" : "Mass Effect.sticker"
+    },
+    {
+      "filename" : "Mass Effect1.sticker"
+    },
+    {
+      "filename" : "Mass Effect2.sticker"
+    },
+    {
+      "filename" : "Master of Orion II - Battle at Antares_1.sticker"
+    },
+    {
+      "filename" : "Master of Orion II - Battle at Antares_2.sticker"
+    },
+    {
+      "filename" : "Master of Orion II - Battle at Antares_3.sticker"
+    },
+    {
+      "filename" : "Max Payne_1.sticker"
+    },
+    {
+      "filename" : "Max Payne2_1.sticker"
+    },
+    {
+      "filename" : "Max Payne2_2.sticker"
+    },
+    {
+      "filename" : "Mechcommander_1.sticker"
+    },
+    {
+      "filename" : "Mechcommander_2.sticker"
+    },
+    {
+      "filename" : "Mechworrior3_1.sticker"
+    },
+    {
+      "filename" : "Mechworrior3_2.sticker"
+    },
+    {
+      "filename" : "Mercedes-Benz Truck Racing_1.sticker"
+    },
+    {
+      "filename" : "MOH Airborne.sticker"
+    },
+    {
+      "filename" : "MOH Airborne1.sticker"
+    },
+    {
+      "filename" : "MOH Airborne2.sticker"
+    },
+    {
+      "filename" : "MoHAb.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "MoHAb.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "MOHPAicon2.sticker"
+    },
+    {
+      "filename" : "Monopoly Tycoon_1.sticker"
+    },
+    {
+      "filename" : "Mortal Kombat - Trilogy_1.sticker"
+    },
+    {
+      "filename" : "Mortal Kombat_1.sticker"
+    },
+    {
+      "filename" : "Mortal Kombat_2.sticker"
+    },
+    {
+      "filename" : "Mortal Kombat_3.sticker"
+    },
+    {
+      "filename" : "Mortal Kombat_4.sticker"
+    },
+    {
+      "filename" : "MortalCombat - Deadly Alliance.sticker"
+    },
+    {
+      "filename" : "MotoGP 2_1.sticker"
+    },
+    {
+      "filename" : "mp2icon6.sticker"
+    },
+    {
+      "filename" : "Neverwinter Nights.sticker"
+    },
+    {
+      "filename" : "NFS-Carbon-Logo.sticker"
+    },
+    {
+      "filename" : "NFSC_01.sticker"
+    },
+    {
+      "filename" : "NFSC_02.sticker"
+    },
+    {
+      "filename" : "NFSC_03.sticker"
+    },
+    {
+      "filename" : "NFSC_04.sticker"
+    },
+    {
+      "filename" : "Nocturne_1.sticker"
+    },
+    {
+      "filename" : "NOLF2_1.sticker"
+    },
+    {
+      "filename" : "NOLF2_2.sticker"
+    },
+    {
+      "filename" : "NOLF2_3.sticker"
+    },
+    {
+      "filename" : "NOLF2_4.sticker"
+    },
+    {
+      "filename" : "NOLF2_5.sticker"
+    },
+    {
+      "filename" : "NOLF2_6.sticker"
+    },
+    {
+      "filename" : "NOLF2_7.sticker"
+    },
+    {
+      "filename" : "NOLF2_8.sticker"
+    },
+    {
+      "filename" : "NOLF2_9.sticker"
+    },
+    {
+      "filename" : "NOLF2_10.sticker"
+    },
+    {
+      "filename" : "NOLF2_11.sticker"
+    },
+    {
+      "filename" : "NOLF2_12.sticker"
+    },
+    {
+      "filename" : "NSFUicon6.sticker"
+    },
+    {
+      "filename" : "NWN-B&W_By_EL1TE.sticker"
+    },
+    {
+      "filename" : "NWNicon3.sticker"
+    },
+    {
+      "filename" : "Oblivion.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_1.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_2.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_3.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_4.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_5.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_6.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_7.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_8.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_9.sticker"
+    },
+    {
+      "filename" : "Opreation Flashpoint_10.sticker"
+    },
+    {
+      "filename" : "Overclocked.sticker"
+    },
+    {
+      "filename" : "Pacmania 3_1.sticker"
+    },
+    {
+      "filename" : "Pacmania 3_2.sticker"
+    },
+    {
+      "filename" : "Pacmania 3_3.sticker"
+    },
+    {
+      "filename" : "Pacmania 3.sticker"
+    },
+    {
+      "filename" : "painkillericon11.sticker"
+    },
+    {
+      "filename" : "Pariah_by_EL1TE.sticker"
+    },
+    {
+      "filename" : "pariahicon2.sticker"
+    },
+    {
+      "filename" : "Perfect Dark Zero.sticker"
+    },
+    {
+      "filename" : "Perfect Dark Zero1.sticker"
+    },
+    {
+      "filename" : "Perfect Dark Zero2.sticker"
+    },
+    {
+      "filename" : "Perfect Dark Zero3.sticker"
+    },
+    {
+      "filename" : "PerfectWorld_1.sticker"
+    },
+    {
+      "filename" : "PerfectWorld_2.sticker"
+    },
+    {
+      "filename" : "PerfectWorld_3.sticker"
+    },
+    {
+      "filename" : "PerfectWorld_4.sticker"
+    },
+    {
+      "filename" : "PerfectWorld_5.sticker"
+    },
+    {
+      "filename" : "Perimeter_1.sticker"
+    },
+    {
+      "filename" : "Perimeter_2.sticker"
+    },
+    {
+      "filename" : "PES 2008_.sticker"
+    },
+    {
+      "filename" : "PES 2008_2.sticker"
+    },
+    {
+      "filename" : "PES_CRonaldo-EL1TE.sticker"
+    },
+    {
+      "filename" : "PES_THenry-EL1TE.sticker"
+    },
+    {
+      "filename" : "PES-EL1TE.sticker"
+    },
+    {
+      "filename" : "Pirates of the Burning Sea_1.sticker"
+    },
+    {
+      "filename" : "Pirates of the Burning Sea_2.sticker"
+    },
+    {
+      "filename" : "Pirates of the Burning Sea.sticker"
+    },
+    {
+      "filename" : "piratesicon1.sticker"
+    },
+    {
+      "filename" : "PoE2-EL1TE.sticker"
+    },
+    {
+      "filename" : "PointOfExistence [2ndWave].sticker"
+    },
+    {
+      "filename" : "Portal.sticker"
+    },
+    {
+      "filename" : "Praetorians_1.sticker"
+    },
+    {
+      "filename" : "Praetorians_2.sticker"
+    },
+    {
+      "filename" : "Prey.sticker"
+    },
+    {
+      "filename" : "Prince of Persia - The Two Thrones_1.sticker"
+    },
+    {
+      "filename" : "Project Nomads_1.sticker"
+    },
+    {
+      "filename" : "Project Nomads_2.sticker"
+    },
+    {
+      "filename" : "Prototype_1.sticker"
+    },
+    {
+      "filename" : "Prototype_2.sticker"
+    },
+    {
+      "filename" : "Prototype.sticker"
+    },
+    {
+      "filename" : "punishericon1.sticker"
+    },
+    {
+      "filename" : "Q3icon2.sticker"
+    },
+    {
+      "filename" : "Quake_1.sticker"
+    },
+    {
+      "filename" : "Quake3_1.sticker"
+    },
+    {
+      "filename" : "Quake3_2.sticker"
+    },
+    {
+      "filename" : "Racedriver Grid_1.sticker"
+    },
+    {
+      "filename" : "Ragnarok.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Lockdown_1.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Lockdown_2.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Lockdown_3.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_1.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_2.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_3.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_4.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_5.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_6.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_7.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_8.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Ravenshield_9.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Rogue Spear_1.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Rogue Spear_2.sticker"
+    },
+    {
+      "filename" : "Rainbow Six - Rogue Spear_3.sticker"
+    },
+    {
+      "filename" : "RCtycoonicon3.sticker"
+    },
+    {
+      "filename" : "Red Faction 2_1.sticker"
+    },
+    {
+      "filename" : "Red Faction 2.sticker"
+    },
+    {
+      "filename" : "Red Faction_mac-cover_2.sticker"
+    },
+    {
+      "filename" : "Red Faction_new_1.sticker"
+    },
+    {
+      "filename" : "Red Faction_usa-cover_3.sticker"
+    },
+    {
+      "filename" : "Resident Evil 2_1.sticker"
+    },
+    {
+      "filename" : "Resident Evil 2_2.sticker"
+    },
+    {
+      "filename" : "Resident Evil 2_3.sticker"
+    },
+    {
+      "filename" : "Resident Evil 2_4.sticker"
+    },
+    {
+      "filename" : "Resident Evil 2_5.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_3.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_4.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_5.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_6.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_7.sticker"
+    },
+    {
+      "filename" : "Resident Evil 4_8.sticker"
+    },
+    {
+      "filename" : "Resident Evil_1.sticker"
+    },
+    {
+      "filename" : "Resident Evil_2.sticker"
+    },
+    {
+      "filename" : "Resident Evil_3.sticker"
+    },
+    {
+      "filename" : "Resident Evil_4.sticker"
+    },
+    {
+      "filename" : "Resident Evil_11.sticker"
+    },
+    {
+      "filename" : "Resident Evil_22.sticker"
+    },
+    {
+      "filename" : "Resident Evil_33.sticker"
+    },
+    {
+      "filename" : "Resident Evil.sticker"
+    },
+    {
+      "filename" : "Resistance - Fall of Men_1.sticker"
+    },
+    {
+      "filename" : "Resistance - Fall of Men_2.sticker"
+    },
+    {
+      "filename" : "Resistance - Fall of Men_3.sticker"
+    },
+    {
+      "filename" : "Rise of Nations - Gold Edition_4.sticker"
+    },
+    {
+      "filename" : "Rise of Nations - Thrones & Patriots_1.sticker"
+    },
+    {
+      "filename" : "Rise of Nations - Thrones & Patriots_2.sticker"
+    },
+    {
+      "filename" : "Rise of Nations - Thrones & Patriots_3.sticker"
+    },
+    {
+      "filename" : "Rise of Nations_1.sticker"
+    },
+    {
+      "filename" : "Rise of Nations_2.sticker"
+    },
+    {
+      "filename" : "Rise of Nations_3.sticker"
+    },
+    {
+      "filename" : "Roller Coaster Tycoon 2_1.sticker"
+    },
+    {
+      "filename" : "Roller Coaster Tycoon 2_2.sticker"
+    },
+    {
+      "filename" : "Roller Coaster Tycoon_1.sticker"
+    },
+    {
+      "filename" : "RollerCoaster Tycoon 3_1.sticker"
+    },
+    {
+      "filename" : "RollerCoaster Tycoon 3_2.sticker"
+    },
+    {
+      "filename" : "RoNicon4.sticker"
+    },
+    {
+      "filename" : "RTWicon1.sticker"
+    },
+    {
+      "filename" : "Runaway a Road Adventure_1.sticker"
+    },
+    {
+      "filename" : "Runaway2_1.sticker"
+    },
+    {
+      "filename" : "Runaway2_2.sticker"
+    },
+    {
+      "filename" : "Runaway2_3.sticker"
+    },
+    {
+      "filename" : "Sabotage_1.sticker"
+    },
+    {
+      "filename" : "Sabotage_2.sticker"
+    },
+    {
+      "filename" : "Sabotage_3.sticker"
+    },
+    {
+      "filename" : "Sacred2_1.sticker"
+    },
+    {
+      "filename" : "Sacred2_2.sticker"
+    },
+    {
+      "filename" : "Sacred2_3.sticker"
+    },
+    {
+      "filename" : "Sacred2_4.sticker"
+    },
+    {
+      "filename" : "Sacred2_5.sticker"
+    },
+    {
+      "filename" : "Sacred2_6.sticker"
+    },
+    {
+      "filename" : "Sacred2_7.sticker"
+    },
+    {
+      "filename" : "Sacred2_8.sticker"
+    },
+    {
+      "filename" : "Sacred2_9.sticker"
+    },
+    {
+      "filename" : "Sacred2_10.sticker"
+    },
+    {
+      "filename" : "Sacred2_11.sticker"
+    },
+    {
+      "filename" : "Sacred2_12.sticker"
+    },
+    {
+      "filename" : "Sacred2_13.sticker"
+    },
+    {
+      "filename" : "Sacred2_14.sticker"
+    },
+    {
+      "filename" : "Sacred2_15.sticker"
+    },
+    {
+      "filename" : "Sacred2_16.sticker"
+    },
+    {
+      "filename" : "Sacred2_17.sticker"
+    },
+    {
+      "filename" : "Sacred2_18.sticker"
+    },
+    {
+      "filename" : "Sacred2_19.sticker"
+    },
+    {
+      "filename" : "SCPTgoggles.sticker"
+    },
+    {
+      "filename" : "SCPTicon1.sticker"
+    },
+    {
+      "filename" : "Scraplandicon1.sticker"
+    },
+    {
+      "filename" : "Secret Weapons over Normandy_1.sticker"
+    },
+    {
+      "filename" : "Secret Weapons over Normandy_2.sticker"
+    },
+    {
+      "filename" : "Secret Weapons over Normandy_3.sticker"
+    },
+    {
+      "filename" : "Secret Weapons over Normandy_4.sticker"
+    },
+    {
+      "filename" : "Secret Weapons over Normandy_5.sticker"
+    },
+    {
+      "filename" : "Serious Sam.sticker"
+    },
+    {
+      "filename" : "Settletrs2Anniversary 2ndWave.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_1.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_2.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_3.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_4.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_5.sticker"
+    },
+    {
+      "filename" : "Severance Blade of Darkness_6.sticker"
+    },
+    {
+      "filename" : "Shadowrun_1.sticker"
+    },
+    {
+      "filename" : "Shadowrun.sticker"
+    },
+    {
+      "filename" : "Silent Hill 5_2.sticker"
+    },
+    {
+      "filename" : "Silent Hill 5.sticker"
+    },
+    {
+      "filename" : "simcity4icon2.sticker"
+    },
+    {
+      "filename" : "Simon the Sorcerer 3D_1.sticker"
+    },
+    {
+      "filename" : "Simon the Sorcerer 3D_2.sticker"
+    },
+    {
+      "filename" : "Sinistar - Uleashed.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune_1.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune_2.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune_3.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune_4.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_1.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_2.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_3.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_4.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_5.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_6.sticker"
+    },
+    {
+      "filename" : "Soldier of Fortune2_mp_5.sticker"
+    },
+    {
+      "filename" : "Sonic Heroes.sticker"
+    },
+    {
+      "filename" : "Speedball2_1.sticker"
+    },
+    {
+      "filename" : "Speedball2.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_1.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_2.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_3.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_4.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_5.sticker"
+    },
+    {
+      "filename" : "Spellforce - The Order of Dawn_6.sticker"
+    },
+    {
+      "filename" : "Spellforce 2 - Dragon Storm_9.sticker"
+    },
+    {
+      "filename" : "Spellforce 2 - Shadow Wars_6.sticker"
+    },
+    {
+      "filename" : "Spellforce 2 - Shadow Wars_7.sticker"
+    },
+    {
+      "filename" : "Spellforce 2 - Shadow Wars_8.sticker"
+    },
+    {
+      "filename" : "Spellforce 2 - Shadow Wars_10.sticker"
+    },
+    {
+      "filename" : "Spellforce 2_1.sticker"
+    },
+    {
+      "filename" : "Spellforce 2_2.sticker"
+    },
+    {
+      "filename" : "Spellforce 2_3.sticker"
+    },
+    {
+      "filename" : "Spellforce 2_4.sticker"
+    },
+    {
+      "filename" : "Spellforce 2_5.sticker"
+    },
+    {
+      "filename" : "spideyicon7.sticker"
+    },
+    {
+      "filename" : "Splinter Cell - Double Agent_1.sticker"
+    },
+    {
+      "filename" : "Splinter Cell - Double Agent_2.sticker"
+    },
+    {
+      "filename" : "Splinter Cell - Pandora Tomorrow_1.sticker"
+    },
+    {
+      "filename" : "Splinter Cell - Pandora Tomorrow_2.sticker"
+    },
+    {
+      "filename" : "SS2icon1.sticker"
+    },
+    {
+      "filename" : "SSicon3.sticker"
+    },
+    {
+      "filename" : "Stalker Clear Sky_01.sticker"
+    },
+    {
+      "filename" : "Stalker_01.sticker"
+    },
+    {
+      "filename" : "Stalker_02.sticker"
+    },
+    {
+      "filename" : "Stalker_03.sticker"
+    },
+    {
+      "filename" : "Stalker_04.sticker"
+    },
+    {
+      "filename" : "Stalker_05.sticker"
+    },
+    {
+      "filename" : "Star Trek Armada 2_2.sticker"
+    },
+    {
+      "filename" : "Star Trek Armada_2.sticker"
+    },
+    {
+      "filename" : "Star Trek Bridge Commander_1.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force_1.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force_2.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force_3.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force_4.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_1.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_2.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_3.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_4.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_5.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_6.sticker"
+    },
+    {
+      "filename" : "Star Trek Voyager Elite Force2_7.sticker"
+    },
+    {
+      "filename" : "Star Wars - Knights of the Republic.sticker"
+    },
+    {
+      "filename" : "Star Wars - Nights of the Old Republic 2_1.sticker"
+    },
+    {
+      "filename" : "Star Wars - Nights of the Old Republic 2_2.sticker"
+    },
+    {
+      "filename" : "Star Wars - Nights of the Old Republic_2.sticker"
+    },
+    {
+      "filename" : "Star Wars - Rogue Swadron_1.sticker"
+    },
+    {
+      "filename" : "Star Wars - Rogue Swadron_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront 2_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront 2_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront 2_3.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront 2_4.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_3.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_4.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_5.sticker"
+    },
+    {
+      "filename" : "Star Wars Battlefront_6.sticker"
+    },
+    {
+      "filename" : "Star Wars Bounty Hunter_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Bounty Hunter_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Bounty Hunter_3.sticker"
+    },
+    {
+      "filename" : "Star Wars Bounty Hunter_4.sticker"
+    },
+    {
+      "filename" : "Star Wars Galactic Battlegrounds_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Galactic Battlegrounds_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies - Addon_4.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies - Addon_5.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies - Addon2_6.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Galaxies_3.sticker"
+    },
+    {
+      "filename" : "Star Wars Jedi Knight - Mysteries of the Sith_.sticker"
+    },
+    {
+      "filename" : "Star Wars Jedi Knight 2 - Jedi Outcast_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Jedi Knight 2 - Jedi Outcast_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Rebel Strike Rogue Squadron3_1.sticker"
+    },
+    {
+      "filename" : "Star Wars Rebel Strike Rogue Squadron3_2.sticker"
+    },
+    {
+      "filename" : "Star Wars Rebel Strike Rogue Squadron3_3.sticker"
+    },
+    {
+      "filename" : "Star Wars Republic Commando_1.sticker"
+    },
+    {
+      "filename" : "Star Wars The Clone Wars_1.sticker"
+    },
+    {
+      "filename" : "Starcraft - Broodwar_1.sticker"
+    },
+    {
+      "filename" : "Starcraft - Broodwar_2.sticker"
+    },
+    {
+      "filename" : "Starcraft - Broodwar_3.sticker"
+    },
+    {
+      "filename" : "Starcraft_1.sticker"
+    },
+    {
+      "filename" : "Starcraft_2.sticker"
+    },
+    {
+      "filename" : "Starcraft_3.sticker"
+    },
+    {
+      "filename" : "Starcraft_4.sticker"
+    },
+    {
+      "filename" : "Starcraft_5.sticker"
+    },
+    {
+      "filename" : "Starcraft_6.sticker"
+    },
+    {
+      "filename" : "Starcraft_7.sticker"
+    },
+    {
+      "filename" : "StarCraft.sticker"
+    },
+    {
+      "filename" : "Starcraft2_new.sticker"
+    },
+    {
+      "filename" : "Starcraft2_ProtossShaman_new.sticker"
+    },
+    {
+      "filename" : "Starcraft2_Zerg_new.sticker"
+    },
+    {
+      "filename" : "Starcraft2_Zerg1_new.sticker"
+    },
+    {
+      "filename" : "StarcraFt2.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "StarCraFt2.02-EL1TE.sticker"
+    },
+    {
+      "filename" : "Starlancer_1.sticker"
+    },
+    {
+      "filename" : "Starship Troopers_2.sticker"
+    },
+    {
+      "filename" : "Starship Troopers.sticker"
+    },
+    {
+      "filename" : "StarWars Jedi Knight Academy_1.sticker"
+    },
+    {
+      "filename" : "StarWars Jedi Knight Academy_2.sticker"
+    },
+    {
+      "filename" : "Stirb Langsam - Nakatomi Plaza_1.sticker"
+    },
+    {
+      "filename" : "Stirb Langsam - Nakatomi Plaza_2.sticker"
+    },
+    {
+      "filename" : "Stirb Langsam - Nakatomi Plaza_3.sticker"
+    },
+    {
+      "filename" : "Streetfighter_1.sticker"
+    },
+    {
+      "filename" : "Stronghold_1.sticker"
+    },
+    {
+      "filename" : "Stronghold_2.sticker"
+    },
+    {
+      "filename" : "supermanicon1.sticker"
+    },
+    {
+      "filename" : "Supreme Snowboarding_1.sticker"
+    },
+    {
+      "filename" : "Supreme Snowboarding_2.sticker"
+    },
+    {
+      "filename" : "SWAT_1.sticker"
+    },
+    {
+      "filename" : "SWAT3_1.sticker"
+    },
+    {
+      "filename" : "SWAT3_2.sticker"
+    },
+    {
+      "filename" : "SWAT4 - Stetchkov Syndicate_1.sticker"
+    },
+    {
+      "filename" : "SWAT4 - Stetchkov Syndicate_2.sticker"
+    },
+    {
+      "filename" : "SWAT4_1.sticker"
+    },
+    {
+      "filename" : "SWAT4_2.sticker"
+    },
+    {
+      "filename" : "SWAT4_3.sticker"
+    },
+    {
+      "filename" : "SWAT4_4.sticker"
+    },
+    {
+      "filename" : "SWAT4_5.sticker"
+    },
+    {
+      "filename" : "SWAT4_6.sticker"
+    },
+    {
+      "filename" : "swat4icon1.sticker"
+    },
+    {
+      "filename" : "SWBFicon1.sticker"
+    },
+    {
+      "filename" : "SWGicon2.sticker"
+    },
+    {
+      "filename" : "SWRCicon2.sticker"
+    },
+    {
+      "filename" : "System Shock.sticker"
+    },
+    {
+      "filename" : "Tabula Rasa - LCE.sticker"
+    },
+    {
+      "filename" : "Tabula Rasa_new_1.sticker"
+    },
+    {
+      "filename" : "Tabula Rasa_new_1a.sticker"
+    },
+    {
+      "filename" : "Tabula Rasa_new_2.sticker"
+    },
+    {
+      "filename" : "Team Factor_1.sticker"
+    },
+    {
+      "filename" : "Team Factor_2.sticker"
+    },
+    {
+      "filename" : "Team Factor_3.sticker"
+    },
+    {
+      "filename" : "Team Factor_4.sticker"
+    },
+    {
+      "filename" : "Team-Fortress-2.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_1.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_2.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_3.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_4.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_5.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_6.sticker"
+    },
+    {
+      "filename" : "Teamfortress2_7.sticker"
+    },
+    {
+      "filename" : "Teamfortress2.sticker"
+    },
+    {
+      "filename" : "Testdrive Unlimited_1.sticker"
+    },
+    {
+      "filename" : "Testdrive Unlimited_2.sticker"
+    },
+    {
+      "filename" : "Testdrive Unlimited_3.sticker"
+    },
+    {
+      "filename" : "Testdrive Unlimited_4.sticker"
+    },
+    {
+      "filename" : "Testdrive Unlimited_5.sticker"
+    },
+    {
+      "filename" : "TFT.sticker"
+    },
+    {
+      "filename" : "The Chronicles of Spellborn.sticker"
+    },
+    {
+      "filename" : "The Chronicles of Spellborn1.sticker"
+    },
+    {
+      "filename" : "The Club_1.sticker"
+    },
+    {
+      "filename" : "The Club_2.sticker"
+    },
+    {
+      "filename" : "The Club_3.sticker"
+    },
+    {
+      "filename" : "The Club_4.sticker"
+    },
+    {
+      "filename" : "The Club_5.sticker"
+    },
+    {
+      "filename" : "The Elder Scrolls III - Morrowind.sticker"
+    },
+    {
+      "filename" : "The Elder Scrolls IV - Oblivion - Shivering Isles_1.sticker"
+    },
+    {
+      "filename" : "The Elder Scrolls IV - Oblivion - Shivering Isles_2.sticker"
+    },
+    {
+      "filename" : "The Lord of the Rings Battle Middle-Earht.sticker"
+    },
+    {
+      "filename" : "The Lord of the Rings Battle Middle-Earht1.sticker"
+    },
+    {
+      "filename" : "The Matrix Online_.sticker"
+    },
+    {
+      "filename" : "The Matrix Online_2.sticker"
+    },
+    {
+      "filename" : "The Matrix Online_3.sticker"
+    },
+    {
+      "filename" : "The Matrix Online_4.sticker"
+    },
+    {
+      "filename" : "The Saga of Ryzom_1.sticker"
+    },
+    {
+      "filename" : "The Saga of Ryzom_2.sticker"
+    },
+    {
+      "filename" : "The Saga of Ryzom_3.sticker"
+    },
+    {
+      "filename" : "The Spirit of Speed_1.sticker"
+    },
+    {
+      "filename" : "The Witcher2.sticker"
+    },
+    {
+      "filename" : "The Witcher3.sticker"
+    },
+    {
+      "filename" : "Thief3_1.sticker"
+    },
+    {
+      "filename" : "Thief3_2.sticker"
+    },
+    {
+      "filename" : "Thief3_3.sticker"
+    },
+    {
+      "filename" : "Thief3_4.sticker"
+    },
+    {
+      "filename" : "thief3icon11.sticker"
+    },
+    {
+      "filename" : "This is Vegas_1.sticker"
+    },
+    {
+      "filename" : "This is Vegas_2.sticker"
+    },
+    {
+      "filename" : "This is Vegas_3.sticker"
+    },
+    {
+      "filename" : "This is Vegas_4.sticker"
+    },
+    {
+      "filename" : "Throne of Darkness_1.sticker"
+    },
+    {
+      "filename" : "Timeshift_new.sticker"
+    },
+    {
+      "filename" : "Timeshock Pinball_1.sticker"
+    },
+    {
+      "filename" : "Timeshock Pinball_2.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_Centaure.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_DeathTyphon.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_DeathTyphon1.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_DeathTyphon2.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_Hero.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_Hero1.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_Hero2.sticker"
+    },
+    {
+      "filename" : "TitanQuest_IT_Hero3.sticker"
+    },
+    {
+      "filename" : "Tom Clancy`s - Rainbow Six Vegas 2.sticker"
+    },
+    {
+      "filename" : "Tom Clancy`s ENDWAR.sticker"
+    },
+    {
+      "filename" : "Tomb Raider - the angel of darkness_1.sticker"
+    },
+    {
+      "filename" : "Tomb Raider - the angel of darkness_2.sticker"
+    },
+    {
+      "filename" : "Tomb Raider - the angel of darkness_3.sticker"
+    },
+    {
+      "filename" : "Tomb Raider - the angel of darkness_4.sticker"
+    },
+    {
+      "filename" : "TombRaider Anniversary 2ndWave.sticker"
+    },
+    {
+      "filename" : "TQ_new.sticker"
+    },
+    {
+      "filename" : "TQ_Trainer.sticker"
+    },
+    {
+      "filename" : "TQ_Vault.sticker"
+    },
+    {
+      "filename" : "TQ_Vault1.sticker"
+    },
+    {
+      "filename" : "TQ_Vault2.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_1.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_2.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_3.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_4.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_5.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_6.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_7.sticker"
+    },
+    {
+      "filename" : "Tribes Vengance_8.sticker"
+    },
+    {
+      "filename" : "Tron 2.0_1.sticker"
+    },
+    {
+      "filename" : "Tron 2.0_2.sticker"
+    },
+    {
+      "filename" : "Tron 2.0_3.sticker"
+    },
+    {
+      "filename" : "Tron 2.0_4.sticker"
+    },
+    {
+      "filename" : "Turning Point - Fall of Liberty_1.sticker"
+    },
+    {
+      "filename" : "Turning Point - Fall of Liberty_2.sticker"
+    },
+    {
+      "filename" : "Turning Point - Fall of Liberty.sticker"
+    },
+    {
+      "filename" : "Turok 2 - Seeds of Evil_1.sticker"
+    },
+    {
+      "filename" : "Turok 2 - Seeds of Evil_2.sticker"
+    },
+    {
+      "filename" : "Turok Rebirth_new.sticker"
+    },
+    {
+      "filename" : "TVicon.sticker"
+    },
+    {
+      "filename" : "TVicon2.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_1.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_2.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_3.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_4.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_5.sticker"
+    },
+    {
+      "filename" : "Ufo Afterlight_6.sticker"
+    },
+    {
+      "filename" : "Ufo Aftermath_1.sticker"
+    },
+    {
+      "filename" : "Ufo Aftermath_2.sticker"
+    },
+    {
+      "filename" : "Ufo Aftershock_1.sticker"
+    },
+    {
+      "filename" : "Ufo Aftershock_2.sticker"
+    },
+    {
+      "filename" : "Ufo Aftershock_3.sticker"
+    },
+    {
+      "filename" : "Universe at War_1.sticker"
+    },
+    {
+      "filename" : "Universe at War_2.sticker"
+    },
+    {
+      "filename" : "Unreal 2_1.sticker"
+    },
+    {
+      "filename" : "Unreal 2_2.sticker"
+    },
+    {
+      "filename" : "Unreal 2_3.sticker"
+    },
+    {
+      "filename" : "Unreal 2_4.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2003_3.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2003_new_1.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2004_1.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2004_2.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2004_3.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament 2004_4.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament_new_1.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament_new_2.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament_new_3.sticker"
+    },
+    {
+      "filename" : "Unreal Tournament_new_4.sticker"
+    },
+    {
+      "filename" : "Unreal_1.sticker"
+    },
+    {
+      "filename" : "Unreal_2.sticker"
+    },
+    {
+      "filename" : "Unreal_3.sticker"
+    },
+    {
+      "filename" : "UT2k4icon4.sticker"
+    },
+    {
+      "filename" : "UT3_1.sticker"
+    },
+    {
+      "filename" : "UT3_2.sticker"
+    },
+    {
+      "filename" : "UT3_3.sticker"
+    },
+    {
+      "filename" : "UT3_4.sticker"
+    },
+    {
+      "filename" : "UT3_4a.sticker"
+    },
+    {
+      "filename" : "Vampire The Masquerade Redemption_1.sticker"
+    },
+    {
+      "filename" : "Vampire The Masquerade Redemption_2.sticker"
+    },
+    {
+      "filename" : "Vegas make_it_big Tycoon_1.sticker"
+    },
+    {
+      "filename" : "Vegas make_it_big Tycoon_2.sticker"
+    },
+    {
+      "filename" : "War of the Worlds_1.sticker"
+    },
+    {
+      "filename" : "Warcraft 2_1.sticker"
+    },
+    {
+      "filename" : "Warcraft 3 - Frozen Throne_1.sticker"
+    },
+    {
+      "filename" : "Warcraft 3 Reign of Chaos_2.sticker"
+    },
+    {
+      "filename" : "Warcraft 3 Reign of Chaos_3.sticker"
+    },
+    {
+      "filename" : "Warcraft 3 Reign of Chaos.sticker"
+    },
+    {
+      "filename" : "Warcraft 3_1.sticker"
+    },
+    {
+      "filename" : "Warcraft 3_2.sticker"
+    },
+    {
+      "filename" : "Warcraft_1.sticker"
+    },
+    {
+      "filename" : "Warhammer 40K_2.sticker"
+    },
+    {
+      "filename" : "Warhammer 40K_3.sticker"
+    },
+    {
+      "filename" : "Warhammer 40K_4.sticker"
+    },
+    {
+      "filename" : "Warhammer 40K.sticker"
+    },
+    {
+      "filename" : "Warhammer Online - Age of Reckoning - Chaos.sticker"
+    },
+    {
+      "filename" : "Warhammer Online - Age of Reckoning - Witch Hunter.sticker"
+    },
+    {
+      "filename" : "Warhound_1.sticker"
+    },
+    {
+      "filename" : "Warhound_2.sticker"
+    },
+    {
+      "filename" : "Warhound_3.sticker"
+    },
+    {
+      "filename" : "Warhound_4.sticker"
+    },
+    {
+      "filename" : "Warhound_5.sticker"
+    },
+    {
+      "filename" : "Warhound.sticker"
+    },
+    {
+      "filename" : "WC3icon22.sticker"
+    },
+    {
+      "filename" : "WC3TFTicon11.sticker"
+    },
+    {
+      "filename" : "WMOC.01-EL1TE.sticker"
+    },
+    {
+      "filename" : "WMOC.04-EL1TE.sticker"
+    },
+    {
+      "filename" : "World of Warcraft - 50% Transparency.sticker"
+    },
+    {
+      "filename" : "World of Warcraft - 75% Transparency.sticker"
+    },
+    {
+      "filename" : "World of Warcraft - No Transparency.sticker"
+    },
+    {
+      "filename" : "World_in_Conflict.sticker"
+    },
+    {
+      "filename" : "World_in_Conflict1.sticker"
+    },
+    {
+      "filename" : "World_in_Conflict2.sticker"
+    },
+    {
+      "filename" : "World_of_Warcraft_icon.sticker"
+    },
+    {
+      "filename" : "Worldshift_1.sticker"
+    },
+    {
+      "filename" : "Worldshift_2.sticker"
+    },
+    {
+      "filename" : "Worldshift_3.sticker"
+    },
+    {
+      "filename" : "Worldshift_4.sticker"
+    },
+    {
+      "filename" : "Worldshift_5.sticker"
+    },
+    {
+      "filename" : "WOW - Wrath of the Lich King_1.sticker"
+    },
+    {
+      "filename" : "WOW - Wrath of the Lich King_2.sticker"
+    },
+    {
+      "filename" : "WoW_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoW.sticker"
+    },
+    {
+      "filename" : "WoW1_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoW2_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoW3_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoW4_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoW5_by_3xhumed.sticker"
+    },
+    {
+      "filename" : "WoWicon2.sticker"
+    },
+    {
+      "filename" : "WowIcon12.sticker"
+    },
+    {
+      "filename" : "XPand Rally xtreme_1.sticker"
+    },
+    {
+      "filename" : "XPand Rally xtreme_2.sticker"
+    },
+    {
+      "filename" : "Zoo Tycoon 2_1.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
