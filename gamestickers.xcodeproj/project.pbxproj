@@ -106,12 +106,12 @@
 				TargetAttributes = {
 					248EFBEA1E75A7E600DE2171 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = B2RT5324ZB;
+						DevelopmentTeam = K3Z8T663H6;
 						ProvisioningStyle = Automatic;
 					};
 					248EFBEE1E75A7E700DE2171 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = B2RT5324ZB;
+						DevelopmentTeam = K3Z8T663H6;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -121,6 +121,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 248EFBE41E75A7E600DE2171;
@@ -256,7 +257,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2RT5324ZB;
+				DEVELOPMENT_TEAM = K3Z8T663H6;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.pavelivanov.gamestickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -268,7 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2RT5324ZB;
+				DEVELOPMENT_TEAM = K3Z8T663H6;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.pavelivanov.gamestickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,7 +281,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2RT5324ZB;
+				DEVELOPMENT_TEAM = K3Z8T663H6;
 				INFOPLIST_FILE = gamestickers/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.pavelivanov.gamestickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -291,7 +292,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = B2RT5324ZB;
+				DEVELOPMENT_TEAM = K3Z8T663H6;
 				INFOPLIST_FILE = gamestickers/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = tk.pavelivanov.gamestickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -317,6 +318,7 @@
 				248EFBFA1E75A7E700DE2171 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		248EFBFC1E75A7E700DE2171 /* Build configuration list for PBXNativeTarget "gamestickers" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +327,7 @@
 				248EFBFE1E75A7E700DE2171 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
